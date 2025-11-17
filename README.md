@@ -1,6 +1,5 @@
 # LiquiditySequencingLab
 Research, models, and architectural work for Liquidity Sequencing Infrastructure — a systems framework for how money is organized, sequenced, and settled.
-# Liquidity Sequencing Lab
 
 This repository houses the research, models, and architectural work behind **Liquidity Sequencing Infrastructure (LSI)** — a new architecture for how money is organized, sequenced, and settled.
 
